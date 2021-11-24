@@ -1,5 +1,5 @@
 {
-  "name": "to-do-list-frontend",
+  "name": "meu-app-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,8 +7,8 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^5.1.3",
-    "bootstrap-icons": "^1.7.1",
     "react": "^17.0.2",
+    "react-bootstrap": "^2.0.2",
     "react-dom": "^17.0.2",
     "react-responsive-modal": "^6.1.0",
     "react-router-dom": "^6.0.2",
